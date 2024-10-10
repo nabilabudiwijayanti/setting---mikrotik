@@ -1,2 +1,2 @@
-# setting---mikrotik
+# setting-mikrotik
 Tugas menyetting mikrotik
